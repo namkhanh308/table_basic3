@@ -1,0 +1,18 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th {
+    border: 1px solid black;
+    padding: 15px;
+}
+th{
+    background-color: yellow;
+    font-size: larger;
+    font-weight: bold;
+}
